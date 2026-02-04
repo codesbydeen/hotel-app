@@ -7,7 +7,7 @@ import { Observable } from 'rxjs';
   providedIn: 'root',
 })
 export class ReservationService {
-  private apiUrl = 'http://localhost:3000';
+  private apiUrl = 'http://localhost:3001';
 
   private reservations: Reservation[] = [];
 
