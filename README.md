@@ -1,6 +1,6 @@
 # HotelApp
 
-A responsive Angular frontend for a hotel application. This project was generated with the Angular CLI and uses Bootstrap for styling.
+A responsive Angular frontend for a hotel application. This project was generated with the Angular CLI and uses Bootstrap for styling. [Project is currently still being updated]
 
 Current stack (from package.json)
 - Angular ^16.1.0
